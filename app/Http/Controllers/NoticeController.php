@@ -20,6 +20,7 @@ class NoticeController extends Controller
         //return view('admin.news')-> with('data', $data);
         return view('notice', compact('data'));
         //return view('notice');
+        //Abir
     }
     //UI news detailse  
     public function details($id)
