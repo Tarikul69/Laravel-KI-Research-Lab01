@@ -58,7 +58,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/"><a class="" style="position: left;" href="/"><img class="navbar" src="admin/Logo.svg" style="color: white; hight: 55px; width: 55px;" alt=""></a><b class="" style="font-size: 20px; color: white;">KI Research Lab</b></a> 
+          <a class="" href="/"><img class="" src="admin/Logo.svg" style="hight: 250px; width: 250px;flex: 0 0 50%;text-align: left;" alt=""></a> 
         </div>
     
         <!-- Collect the nav links, forms, and other content for toggling -->

@@ -16,7 +16,7 @@ class NoticeController extends Controller
     //
     public function notice()
     {
-        $data = DB::table('notice')->get();
+        $data = DB::table('notice')->orderBy('id', 'desc')->get();
         //return view('admin.news')-> with('data', $data);
         return view('notice', compact('data'));
         //return view('notice');
@@ -30,7 +30,7 @@ class NoticeController extends Controller
     //Project UI
     public function project()
     {
-        $data = DB::table('project1')->get();
+        $data = DB::table('project1')->orderBy('id', 'desc')->get();
         //$data = DB::table('project2')->get();
 
         return view('project', compact('data'));
@@ -96,7 +96,7 @@ class NoticeController extends Controller
     //Notice
     public function news()
     {
-        $data = DB::table('notice')->get();
+        $data = DB::table('notice')->orderBy('id', 'desc')->get();
         return view('admin.news', compact('data'));     
     }
     public function news1(Request $req)
@@ -150,7 +150,7 @@ class NoticeController extends Controller
         
     }
     public function project2(){
-        $gf = DB::table('project1')->get();
+        $gf = DB::table('project1')->orderBy('id', 'desc')->get();
         return view('admin.project1', compact('gf'));
     }
     //Adminhome
