@@ -65,7 +65,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/" class="page-scroll">Home</a></li>
-            <li><a href="#tf-about" class="page-scroll">About</a></li>
+            <li><a href="/" class="page-scroll">About</a></li>
             <li><a href="/notice" class="page-scroll">News</a></li>
             <li><a href="/project" class="page-scroll">Project</a></li>   
             <li><a href="/team10" class="page-scroll">Team</a></li>
@@ -125,8 +125,8 @@
             </div>
             <div class="pull-right fnav">   
                 <ul class="footer-social">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                    <li><a href="https://www.facebook.com/academykishor/"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 </ul>

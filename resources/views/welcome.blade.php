@@ -91,7 +91,7 @@
                 <br>
                 <br>
                 <h1>Welcome to   <strong><span class="color">KI Research Lab</span></strong></h1>
-                <p class="lead">Tagline <strong>Tagline</strong> Tagline <strong>Tagline</strong></p>
+                <p class="lead">Research on Explainable AI and Contents on Machine Learning</p>
              </div>
         </div>
     </div>
@@ -112,16 +112,9 @@
                             <hr>
                             <div class="clearfix"></div>
                         </div>
-                        <p class="intro">Much research has done to generate a proper and expressive natural sen-tence in the English language,  .</p>
+                        <p class="intro">Kishor Academy aims at developing systems that provide visual, textual, or multi-modal explanations that help elucidate the reasoning behind their decisions. Besides this academy will create explainable contents on machine learning.</p>
                         <ul class="about-list">
-                            <li>
-                                <span class="fa fa-dot-circle-o"></span>
-                                <strong>Mission</strong> - <em>We deliver uniqueness and quality</em>
-                            </li>
-                            <li>
-                                <span class="fa fa-dot-circle-o"></span>
-                                <strong>Skills</strong> - <em>Delivering fast and excellent results</em>
-                            </li>
+                             
   
                         </ul>
                     </div>
@@ -138,8 +131,8 @@
             </div>
             <div class="pull-right fnav">
                 <ul class="footer-social">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                    <li><a href="https://www.facebook.com/academykishor/"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 </ul>
